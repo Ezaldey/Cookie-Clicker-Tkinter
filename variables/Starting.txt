@@ -1,0 +1,7 @@
+cookieclick : 1
+CookieClick_Price : 50
+CookieClickLVL2_Price : 250
+CookieClickLVL3_Price : 1250
+CookieClickLVL4_Price : 6250
+CookieClickLVL5_Price : 31250
+cookies : 0
